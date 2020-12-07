@@ -1,4 +1,4 @@
-# **Submit This!**  
+# **Submit Thi!**  
 
 ## **Assignment Description**  
 Turn in this assignment using the three git commands show in the video. You do not need to write any code for this assignment, just turn it in to show me you can.
